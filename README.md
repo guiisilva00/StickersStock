@@ -1,4 +1,5 @@
-📦 Overview — StickersStock
+#📦 Overview — StickersStock
+
 O StickersStock é uma plataforma digital desenvolvida para auxiliar colecionadores na organização, gestão e controle de seu acervo de figurinhas. O sistema permite registrar itens com fotos, categorizar por times ou coleções e acompanhar a quantidade de itens repetidos ou pendentes, tornando o processo de troca e preenchimento de álbuns muito mais simples, rápido e intuitivo.
 
 ✨ Destaques do Projeto
